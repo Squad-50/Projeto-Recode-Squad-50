@@ -1,0 +1,8 @@
+Modelo Conceitual:
+
+https://app.brmodeloweb.com/#!/conceptual/64de4691ffee37092004197c
+
+Modelo Lógico:
+
+
+https://app.brmodeloweb.com/#!/logic/%7B%22modelid%22:%2264de56b6823f85bdb65834f6%22,%22conversionId%22:%22%22%7D
